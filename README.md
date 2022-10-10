@@ -12,11 +12,11 @@ Partytown requires some scripts to be served by the app and provides a convinien
 
 ### sveltekit
 
-`npx partytown copylib static/~partytown`
+`npx @builder.io/partytown copylib static/~partytown`
 
 ### svelte
 
-`npx partytown copylib public/~partytown`
+`npx @builder.io/partytown copylib public/~partytown`
 
 ## Usage
 
